@@ -34,9 +34,9 @@ class _TestState extends State<Test> {
 }
 ```
 
-##Example
+## Example
 
-### lib/home.dart
+#### lib/home.dart
 ```dart
 import 'package:flutter/material.dart';
 import 'package:phone_auth_simple/phone_auth_simple.dart';
@@ -58,7 +58,7 @@ class _HomeState extends State<Home> {
 }
 ```
 
-### lib/phone_number.dart
+#### lib/phone_number.dart
 ```dart
 import 'package:flutter/material.dart';
 import 'package:phone_auth_simple/phone_auth_simple.dart';
@@ -90,7 +90,7 @@ class PhoneNumber extends StatelessWidget {
 }
 
 ```
-### lib/get_otp.dart
+#### lib/get_otp.dart
 ```dart
 import 'package:flutter/material.dart';
 import 'package:phone_auth_simple/phone_auth_simple.dart';
@@ -122,7 +122,7 @@ class _GetOtpState extends State<GetOtp> {
 ```
 
 
-##Params
+## Params
   
   ```
    PhoneAuthSimple(
@@ -139,6 +139,6 @@ class _GetOtpState extends State<GetOtp> {
 <img src="/screenshot/screen1.JPEG" alt="Screenshot 1"/>
 <img src="/screenshot/screen2.JPEG" alt="Screenshot 2"/> 
   
-###Upcoming Update
+### Upcoming Update
 New layout will be added.
 More Customization will be added  
