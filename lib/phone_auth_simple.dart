@@ -639,3 +639,4 @@ class _PhoneAuthSimpleState extends State<PhoneAuthSimple> {
     return Container();
   }
 }
+
