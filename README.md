@@ -4,9 +4,9 @@ This package help you to do `phone verification in just 6 lines of code`. Isn't 
 
 ## Installation 
 
-`Step 1`- Connect Your app with firebase.<br/>
-`Step 2`- Enable Phone Authentication in Firebase.<br/>
-`Step 3`-Add `phone_auth_simple: ` in your `pubspec.yaml` dependencies.<br/>
+`Step 1`- Connect Your app with firebase.  
+`Step 2`- Enable Phone Authentication in Firebase.   
+`Step 3`-Add `phone_auth_simple: ` in your `pubspec.yaml` dependencies.  
 
 ## How to use
 ```dart
@@ -136,8 +136,8 @@ class _GetOtpState extends State<GetOtp> {
   ```
   
 ## Screenshot
-<img src="/screenshot/screen1.JPEG" alt="Screenshot 1"/>
-<img src="/screenshot/screen2.JPEG" alt="Screenshot 2"/> 
+<img src="/screenshot/screen1.JPEG" alt="Screenshot 1" height="250em"/>
+<img src="/screenshot/screen2.JPEG" alt="Screenshot 2" height="250em"/> 
   
 ### Upcoming Update
 New layout will be added.
