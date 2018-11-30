@@ -136,8 +136,8 @@ class _GetOtpState extends State<GetOtp> {
   ```
   
 ## Screenshot
-<img src="/screnshot/screen1.JPEG" alt="Screenshot 1"/>
-<img src="/screnshot/screen2.JPEG" alt="Screenshot 2"/> 
+<img src="/screenshot/screen1.JPEG" alt="Screenshot 1"/>
+<img src="/screenshot/screen2.JPEG" alt="Screenshot 2"/> 
   
 ###Upcoming Update
 New layout will be added.
