@@ -25,8 +25,8 @@
       <file leaf-file-name="phone_auth_simple.dart" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/phone_auth_simple.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="657">
-              <caret line="638" column="1" selection-start-line="638" selection-start-column="1" selection-end-line="638" selection-end-column="1" />
+            <state relative-caret-position="417">
+              <caret line="607" column="17" lean-forward="true" selection-start-line="607" selection-start-column="17" selection-end-line="607" selection-end-column="17" />
               <folding>
                 <element signature="e#27#66#0" expanded="true" />
               </folding>
@@ -563,8 +563,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/phone_auth_simple.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
-          <caret line="638" column="1" selection-start-line="638" selection-start-column="1" selection-end-line="638" selection-end-column="1" />
+        <state relative-caret-position="417">
+          <caret line="607" column="17" lean-forward="true" selection-start-line="607" selection-start-column="17" selection-end-line="607" selection-end-column="17" />
           <folding>
             <element signature="e#27#66#0" expanded="true" />
           </folding>
