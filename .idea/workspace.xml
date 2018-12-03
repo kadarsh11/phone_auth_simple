@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55981f20-aba2-4b65-9593-18d53a19a58a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/phone_auth_simple.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/phone_auth_simple.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
@@ -26,7 +25,12 @@
       <file leaf-file-name="phone_auth_simple.dart" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/phone_auth_simple.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state />
+            <state relative-caret-position="657">
+              <caret line="638" column="1" selection-start-line="638" selection-start-column="1" selection-end-line="638" selection-end-column="1" />
+              <folding>
+                <element signature="e#27#66#0" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
@@ -310,6 +314,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9075">
           <caret line="605" column="12" lean-forward="true" selection-start-line="605" selection-start-column="12" selection-end-line="605" selection-end-column="12" />
+          <folding>
+            <element signature="e#27#66#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -372,6 +379,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9600">
           <caret line="642" selection-start-line="642" selection-end-line="642" />
+          <folding>
+            <element signature="e#27#66#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -434,6 +444,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1155">
           <caret line="77" column="76" lean-forward="true" selection-start-line="77" selection-start-column="76" selection-end-line="77" selection-end-column="76" />
+          <folding>
+            <element signature="e#27#66#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -550,7 +563,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/phone_auth_simple.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state />
+        <state relative-caret-position="657">
+          <caret line="638" column="1" selection-start-line="638" selection-start-column="1" selection-end-line="638" selection-end-column="1" />
+          <folding>
+            <element signature="e#27#66#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
