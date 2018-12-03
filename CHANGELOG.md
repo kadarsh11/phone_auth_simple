@@ -15,3 +15,6 @@ Improved functionality
 
 ## [0.0.8] - Release
 Added custom color of progress indicator
+
+## [0.0.9] - Release
+Updated Documentation
